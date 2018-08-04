@@ -1,4 +1,4 @@
 <?php
-echo "haha";
+echo 'index.php';
 
 ?>
